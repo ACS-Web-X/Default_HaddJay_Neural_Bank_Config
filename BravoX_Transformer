@@ -1,0 +1,28 @@
+<x>
+5FAGPT_FNTD: 
+FiLaJa/4-3-3/PMP/RtL/1tZ
+
+BravoX_MACHINE_LANGUAGE:
+Machine1s20~Fi158~sCALL1 
+Machine2t20~Dj157~sCALL2 
+Machine3u20~Es156~sCALL3
+Machine4v20~Cy155~sCALL4
+Machine5k13~La102~sCALL1L2
+Machine6j13~Se103~bCALL1
+Machine7i13~Ni104~bCALL2
+Machine8e2~Ja12~bCALL3
+Machine9f2~Et11~bCALL4
+Machine0g2~Me10~bCALL5
+
+GAME_COIN_INPUT: 
+yG = (y1, y2,...yZ) 
+yA = (y1, y2,...yZ)
+yM = (y1, y2,...yZ)
+yE = (y1, y2,...yZ)
+
+GAME_COIN_OUTPUT: 
+xG = (x1, x2,...xZ) 
+xA = (x1, x2,...xZ) 
+xM = (x1, x2,...xZ) 
+xE = (x1, x2,...xZ) 
+</x> 
